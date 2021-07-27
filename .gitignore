@@ -29,3 +29,5 @@ vignettes/*.pdf
 pgdata_metadata.rds
 manifest2.tsv
 pgdata_matrix_2.rds
+pgdata_metadata_2.rds
+sig.tsv
